@@ -66,7 +66,7 @@ function iniciarContador(){
         segundosEl.textContent = "00";
         milisegundosEl.textContent = "000";
 
-        botaoInicio.style.display = "block";
+        botaoIniciar.style.display = "block";
         botaoPausar.style.display = "none";
         botaoContinuar.style.display = "none";
     }
