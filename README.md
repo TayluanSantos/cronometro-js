@@ -10,4 +10,6 @@ Esse projeto foi desenvolvido seguindo a vídeo-aula disponibilizada pelo Matheu
 - HTML5
 - CSS
 - JS
+## :link: Links:
+Canal do Matheus Battisti: https://www.youtube.com/@MatheusBattisti
 
