@@ -12,4 +12,6 @@ Esse projeto foi desenvolvido seguindo a vídeo-aula disponibilizada pelo Matheu
 - JS
 ## :link: Links:
 Canal do Matheus Battisti: https://www.youtube.com/@MatheusBattisti
-
+## Imagens do projeto
+![image](https://github.com/TayluanSantos/cronometro-js/assets/86802708/ec6ff977-bcc6-41fa-a677-6cb7010f52f3)
+![image](https://github.com/TayluanSantos/cronometro-js/assets/86802708/4ae645e8-927a-4777-976e-28c545fdb6dd)
